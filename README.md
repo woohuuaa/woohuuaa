@@ -2,7 +2,6 @@
 <h3 align="center">Aspiring Software Engineer | Full-Stack Dev | AI Projects | QE Automation</h3>
 
 ---
-## About Me
 - Computer Programming and Analysis student at Seneca Polytechnic
 - Interested in full-stack development, AI-powered tools, and practical product building
 - Experience in QE automation, web/POS testing, and team-based software projects
