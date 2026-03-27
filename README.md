@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Momo🍑 </h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Development | AI-Powered Tools | Experimentation & Personalization | AWS </h3>
+<h3 align="center">Aspiring Software Engineer | Full-Stack Development | AI-Powered Tools | AWS | Experimentation </h3>
 
 ---
 - Computer Programming and Analysis student at Seneca Polytechnic
