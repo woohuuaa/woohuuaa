@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Momo! </h1>
+<h1 align="center">Hi, I'm Momo🍑 </h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Dev | AI Projects | QE Automation</h3>
 
 ---
