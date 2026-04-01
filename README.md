@@ -4,7 +4,7 @@
 ## About Me
 - Computer Programming and Analysis student at **Seneca Polytechnic**
 - Interested in **full-stack development, AI-powered tools, and practical software that improves user workflows**
-- Experience in **QE automation, web/POS testing, and building team-based software projects**
+- Experience in **QA Automation, web/POS testing, and building team-based software projects**
 
 ## ⚒️ Tech Stack
 
