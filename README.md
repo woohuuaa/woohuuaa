@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Momo 🍑</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Development | AI-Powered Tools | AWS</h3>
+<h3 align="center"> Software Engineer | AI-Powered Applications | Full-Stack Development | AWS</h3>
 
 ## About Me
 - Computer Programming and Analysis student at **Seneca Polytechnic**
-- Interested in **full-stack development, AI-powered tools, and practical software that improves user workflows**
+- Interested in **AI-Powered Applications, Cloud, full-stack development and practical software that improves user workflows**
 - Experience in **QA Automation, web/POS testing, and building team-based software projects**
 
 ## ⚒️ Tech Stack
