@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Momo 🍑</h1>
 <p align="center">
-  Software Engineer | AI-powered applications | Cloud & APIs | ull-stack systems
+  Software Engineer focused on AI-powered applications, developer tools, and full-stack systems
 </p>
 
 ---
 
 ## 💼 Work
-- **KDAI 2.0** — Real-time debate analysis platform
+- **[KDAI 2.0](https://github.com/W-KDAI/kdai2)** — Real-time debate analysis platform
 - **[ScriBot](https://github.com/woohuuaa/ScriBot)** — RAG-powered documentation assistant (Agent)
 - **QA Automation @ ParTech** — Automation, CI/CD, and troubleshooting
 
