@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Momo 🍑</h1>
 <p align="center">
-  Software Engineer focused on AI-powered applications, developer tools, and full-stack systems
+  Software Engineer | AI-powered applications | developer tools | full-stack systems
 </p>
 
 ---
