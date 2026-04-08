@@ -7,7 +7,7 @@
 
 ## 💼 Work
 - **KDAI 2.0** — Real-time debate analysis platform
-- **[ScriBot](https://github.com/woohuuaa/ScriBot)** — RAG-powered documentation assistant
+- **[ScriBot](https://github.com/woohuuaa/ScriBot)** — RAG-powered documentation assistant (Agent)
 - **QA Automation @ ParTech** — Automation, CI/CD, and troubleshooting
 
 ## ⚒️ Tech Stack
